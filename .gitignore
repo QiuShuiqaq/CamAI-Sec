@@ -1,0 +1,11 @@
+.npm-cache/
+.runtime-logs/
+upstream/
+package/
+
+**/node_modules/
+**/dist/
+**/.turbopack/
+
+.DS_Store
+Thumbs.db
